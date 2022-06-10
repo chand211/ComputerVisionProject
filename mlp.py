@@ -3,9 +3,9 @@ Final Project : Group Programming Assignment
 
 Team Members:
 Chris Anderson
-Steven Borrego
-Emily Devlin
-Max Schreyer
+xxxxxx
+xxxxxx
+xxxxxx
 
 Analysis of X-Ray images classified as Normal, Covid, or Pneumonia
 Experiments can vary the number of hidden layers, number of nodes per hidden layer,
